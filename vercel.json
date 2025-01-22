@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/Trump-to-Eliminate-Taxes-On-Solana-Memecoins",
+      "destination": "https://notax-omega.vercel.app/"
+    }
+  ]
+}
